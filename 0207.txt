@@ -1,0 +1,33 @@
+recipe:食譜
+receipt:收據
+restrict:限制
+revolution:革命
+reword:改寫
+skeleton:骨骼
+startle:使驚嚇
+starvation:飢餓
+statement(2):敘述 聲明
+stimulate:刺激
+substitute(4):v.代替 n.代替人 代替品 a.代替用的
+substituent(2):取代者 取代基
+texture:質地
+transport:運送
+transportation(2):交通工具 運輸
+universal:全球性的
+visibility(2):能見度 視程
+vivid:生動的
+wander:漫步
+welfare:福利
+wilderness:荒野
+abandon:放棄
+achievable:可達成的
+anxious:焦慮的
+apperance:外表
+approach:靠近
+blond:金髮的
+capacity:容器
+careless:粗心的
+casual(4):碰巧的 隨便的 非正式的 臨時工人
+choir:合唱團
+circumstance:環境
+extent(2):程度範圍限度 廣度寬度長度
